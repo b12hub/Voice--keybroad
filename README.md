@@ -33,3 +33,17 @@ python voice_keyboard.py
 pyinstaller --onefile voice_keyboard.py
 
 ```
+
+## 🔧 Features
+- 🎤 Voice-to-text using Web Speech API
+- 🧠 Smart error handling for noisy input
+- 💡 Minimal UI for distraction-free typing
+
+
+## 🌱 Future Plans
+- Add language support
+- Save voice input as a file
+- Change program language to Rust🦀
+
+## 🙌 Contributing
+Pull requests are welcome!
